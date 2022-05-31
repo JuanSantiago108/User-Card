@@ -1,0 +1,75 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+
+
+.card {
+    height: 350px;
+    width: 650px;
+    border: 2px solid black;
+}
+
+.topbar {
+        width: 100%;
+        height: 100px;
+        background-color: rgb(62, 117, 139);
+    }
+
+
+.info {
+    height: 190px;
+    width: 650px;
+background-color: white;
+
+}
+
+.info-content {
+    height: 190px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: black;
+}
+
+
+
+.topbar img {
+    height: 120px;
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+    padding: 3px;
+}
+
+.info-content img {
+    height: 20px;
+    margin-right: 5px;
+    
+}
+
+
+
+.info-content h2 {
+    margin-top: 60px;
+}
+
+.bottomtext {
+    margin-left: 20px;
+    
+}
+
+.spaceout {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.text-decorative p{
+text-decoration: underline;
+color: blue;
+
+}
